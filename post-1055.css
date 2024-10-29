@@ -1,0 +1,41 @@
+.breakdance .bde-container-link-1055-113 {
+  height: 100%;
+}
+
+.breakdance .bde-div-1055-110 {
+  width: 100%;
+  padding: 16px 16px 16px 16px;
+  border-top: 1px solid #1314161f;
+  border-bottom: 1px solid #1314161f;
+  border-left: 1px solid #1314161f;
+  border-right: 1px solid #1314161f;
+  border-radius: 8px;
+}
+
+.breakdance .bde-div-1055-110 {
+  height: 100%;
+}
+
+@media (max-width: 1023px) {
+  .breakdance .bde-div-1055-110 {
+    width: 100%;
+  }
+}
+
+.breakdance .bde-heading-1055-102 {
+  color: var(--bde-body-text-color);
+  font-family: "Museo sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.breakdance .bde-text-1055-117 {
+  color: var(--bde-body-text-color);
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.breakdance .bde-text-1055-117 {
+  opacity: 0.6;
+}

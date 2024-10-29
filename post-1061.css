@@ -1,0 +1,321 @@
+.breakdance .bde-post-loop-1061-100>.ee-posts {
+    --bde-posts-gap: 24px;
+    --bde-posts-per-row: 2
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-posts-pagination-loadmore-button {
+    --bde-transition-duration: 200ms;
+    --bde-button-custom-border-color: #1314161F;
+    --bde-button-custom-border-color-hover: #1314161F;
+    --bde-button-custom-background-color: transparent;
+    --bde-button-custom-background-color-hover: transparent;
+    --bde-button-custom-text-color: var(--bde-body-text-color);
+    --bde-button-custom-text-color-hover: var(--bde-body-text-color);
+    border-radius: 8px;
+    color: var(--bde-body-text-color);
+    font-family: "Museo sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-posts-pagination-loadmore-button:hover {
+    transform: scale(1.05)
+  }
+  
+  .breakdance .bde-post-loop-1061-100>.ee-posts>.ee-post,.breakdance .bde-post-loop-1061-100>.breakdance-swiper-wrapper>.swiper>.ee-posts>.ee-post {
+    padding: 0 0 0 0
+  }
+  
+  .breakdance .bde-post-loop-1061-100 {
+    padding: 0 0 0 0
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-icon>svg {
+    color: var(--inactiveColor)
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-icon>svg,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-icon>svg {
+    color: var(--activeColor)
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-icon>svg {
+    color: var(--hoverColor)
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) {
+    background-color: var(--inactiveBgColor)
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover {
+    background-color: var(--activeBgColor)
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover {
+    background-color: var(--hoverBgColor)
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active:hover::after {
+    background-color: var(--activeUnderlineColor,--activeColor)
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab:hover::after {
+    background-color: var(--hoverUnderlineColor)
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .breakdance-swiper-wrapper {
+    overflow: hidden
+  }
+  
+  .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist-container.is-vertical {
+    width:
+  }
+  
+  @media (max-width: 1119px) {
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-icon>svg {
+      color:var(--inactiveColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-icon>svg,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-icon>svg {
+      color: var(--activeColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-icon>svg {
+      color: var(--hoverColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) {
+      background-color: var(--inactiveBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover {
+      background-color: var(--activeBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover {
+      background-color: var(--hoverBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active:hover::after {
+      background-color: var(--activeUnderlineColor,--activeColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab:hover::after {
+      background-color: var(--hoverUnderlineColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .breakdance-swiper-wrapper {
+      overflow: hidden
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist-container.is-vertical {
+      width:
+    }
+  }
+  
+  @media (max-width: 1023px) {
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-icon>svg {
+      color:var(--inactiveColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-icon>svg,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-icon>svg {
+      color: var(--activeColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-icon>svg {
+      color: var(--hoverColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) {
+      background-color: var(--inactiveBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover {
+      background-color: var(--activeBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover {
+      background-color: var(--hoverBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active:hover::after {
+      background-color: var(--activeUnderlineColor,--activeColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab:hover::after {
+      background-color: var(--hoverUnderlineColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .breakdance-swiper-wrapper {
+      overflow: hidden
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist-container.is-vertical {
+      width:
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .breakdance .bde-post-loop-1061-100>.ee-posts {
+      --bde-posts-per-row:1
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-icon>svg {
+      color: var(--inactiveColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-icon>svg,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-icon>svg {
+      color: var(--activeColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-icon>svg {
+      color: var(--hoverColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) {
+      background-color: var(--inactiveBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover {
+      background-color: var(--activeBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover {
+      background-color: var(--hoverBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active:hover::after {
+      background-color: var(--activeUnderlineColor,--activeColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab:hover::after {
+      background-color: var(--hoverUnderlineColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__select {
+      display: block!important
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist-container--dropdown {
+      display: none!important
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .breakdance-swiper-wrapper {
+      overflow: hidden
+    }
+  
+    .bde-tabs__tabslist-container--scrollable,.bde-tabs__tabslist-container--scrollable .bde-tabs__tabslist {
+      justify-content: flex-start!important
+    }
+  
+    .bde-tabs__tabslist-container--scrollable {
+      position: relative
+    }
+  
+    .bde-tabs__tabslist-container--scrollable .bde-tabs__tabslist {
+      overflow: auto;
+      position: relative
+    }
+  
+    .breakdance .bde-post-loop-1061-100 {
+      flex-direction: column
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist-container.is-vertical {
+      width:
+    }
+  
+    .breakdance .bde-post-loop-1061-100 {
+      flex-direction: column;
+      align-items: unset
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist-container.is-vertical {
+      overflow: hidden
+    }
+  }
+  
+  @media (max-width: 479px) {
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-icon>svg {
+      color:var(--inactiveColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-icon>svg,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-icon>svg {
+      color: var(--activeColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-icon>svg {
+      color: var(--hoverColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) {
+      background-color: var(--inactiveBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover {
+      background-color: var(--activeBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover {
+      background-color: var(--hoverBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active:hover::after {
+      background-color: var(--activeUnderlineColor,--activeColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab:hover::after {
+      background-color: var(--hoverUnderlineColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .breakdance-swiper-wrapper {
+      overflow: hidden
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist-container.is-vertical {
+      width:
+    }
+  }
+  
+  @media (min-width: 1120px) and (max-width:1280px) {
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) .bde-tabs__tab-icon>svg {
+      color:var(--inactiveColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active .bde-tabs__tab-icon>svg,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover .bde-tabs__tab-icon>svg {
+      color: var(--activeColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-title,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover .bde-tabs__tab-icon>svg {
+      color: var(--hoverColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:not(.is-active) {
+      background-color: var(--inactiveBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active,.breakdance .bde-post-loop-1061-100 .bde-tabs__tab.is-active:hover {
+      background-color: var(--activeBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tab:hover {
+      background-color: var(--hoverBgColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--default .bde-tabs__tab.is-active:hover::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active::after,.breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--bar .bde-tabs__tab.is-active:hover::after {
+      background-color: var(--activeUnderlineColor,--activeColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist--tabs .bde-tabs__tab:hover::after {
+      background-color: var(--hoverUnderlineColor)
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .breakdance-swiper-wrapper {
+      overflow: hidden
+    }
+  
+    .breakdance .bde-post-loop-1061-100 .bde-tabs__tabslist-container.is-vertical {
+      width:
+    }
+  }
+  
