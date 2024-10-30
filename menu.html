@@ -2,17 +2,20 @@
 <html>
   <head>
     <title>Menu</title>
-    <link rel="stylesheet" href="global-settings.css">
-    <link rel="stylesheet" href="menu.css">
-    <link rel="stylesheet" href="post-16-defaults.css">
-    <link rel="stylesheet" href="post-644-defaults.css">
-    <link rel="stylesheet" href="post-644.css">
-    <link rel="stylesheet" href="post-1055-defaults.css">
-    <link rel="stylesheet" href="post-1061-defaults.css">
-    <link rel="stylesheet" href="post-1061.css">
-    <link rel="stylesheet" href="post-1244-defaults.css">
-    <link rel="stylesheet" href="post-2191-defaults.css">
-    <link rel="stylesheet" href="post-2191.css">
+    <link rel="stylesheet" href="global-settings.css" />
+
+    <link rel="stylesheet" href="post-16-defaults.css" />
+    <link rel="stylesheet" href="post-644-defaults.css" />
+    <link rel="stylesheet" href="post-644.css" />
+    <link rel="stylesheet" href="post-1055-defaults.css" />
+    <link rel="stylesheet" href="post-1061-defaults.css" />
+    <link rel="stylesheet" href="post-1061.css" />
+    <link rel="stylesheet" href="post-1244-defaults.css" />
+    <link rel="stylesheet" href="post-2191-defaults.css" />
+    <link rel="stylesheet" href="post-2191.css" />
+    <link rel="stylesheet" href="awesome-menu.css" />
+    <link rel="stylesheet" href="selectors.css" />
+    <link rel="stylesheet" href="menu.css" />
   </head>
   <body class="breakdance">
     <header
@@ -4066,5 +4069,34 @@
 
       <div class="bde-header-builder__header-builder-border-bottom"></div>
     </header>
+    <script>
+      console.log("prdel");
+
+      document.addEventListener("DOMContentLoaded", function () {
+        // Vyhledáme všechny prvky s třídou "breakdance-dropdown-toggle"
+        const toggles = document.querySelectorAll(
+          ".breakdance-dropdown-toggle"
+        );
+
+        toggles.forEach((toggle) => {
+          toggle.addEventListener("click", function () {
+            // Najdeme rodiče s třídami "breakdance-dropdown breakdance-dropdown--custom"
+            const dropdownParent = toggle.closest(
+              ".breakdance-dropdown.breakdance-dropdown--custom"
+            );
+            const dropdownBody = dropdownParent.querySelector(
+              ".breakdance-dropdown-floater > .breakdance-dropdown-body"
+            );
+
+            // Přidáme třídu "breakdance-dropdown--open" rodiči a nastavíme display:flex na dropdown body
+            if (dropdownParent && dropdownBody) {
+              dropdownParent.classList.toggle("breakdance-dropdown--open"); // Přidá nebo odebere třídu
+              dropdownBody.style.display =
+                dropdownBody.style.display === "flex" ? "none" : "flex"; // Přepíná mezi 'flex' a 'none'
+            }
+          });
+        });
+      });
+    </script>
   </body>
 </html>

@@ -32,8 +32,10 @@
 
 .breakdance .bde-header-builder-2191-117 {
   border-bottom: 0;
+
   .breakdance-dropdown-body:after {
     display: flex;
+    display:none;
     content: "";
     width: 100vw;
     height: 100vh;
